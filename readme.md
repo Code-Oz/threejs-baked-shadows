@@ -1,10 +1,13 @@
-# Three.js Journey
+# From Three.js Journey maked by Bruno Simon
+
+Demo [here](https://roaring-rugelach-9ba47a.netlify.app/)
 
 ## Setup
+
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
-``` bash
+```bash
 # Install dependencies (only the first time)
 npm install
 
